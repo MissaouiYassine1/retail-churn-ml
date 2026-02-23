@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+pycache/
+*.pyc
+*.pyo
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# VSCode settings
+.vscode/
+
+# Models
+*.pkl
+*.joblib
+*.h5
+
+# Ignore environment files
+.env
+venv/

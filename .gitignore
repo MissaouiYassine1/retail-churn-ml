@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 pycache/
 *.pyc
@@ -15,3 +16,29 @@ pycache/
 # Ignore environment files
 .env
 venv/
+=======
+# Environnement virtuel
+venv/
+.venv/
+
+# Données
+data/
+!data/raw/.gitkeep
+
+# Modèles (fichiers lourds)
+models/*.joblib
+models/*.pkl
+
+# Notebooks (peuvent contenir des outputs)
+notebooks/.ipynb_checkpoints/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+>>>>>>> 58f014d (Précision des fichiers à ignorer dans git)

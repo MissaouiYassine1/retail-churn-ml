@@ -26,3 +26,5 @@ __pycache__/
 
 # Script PowerShell pour créer un fichier .gitkeep dans chaque dossier spécifié
 create-gitkeep.ps1 
+
+data/predictions/

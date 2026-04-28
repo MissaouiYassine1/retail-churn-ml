@@ -3,10 +3,11 @@ numpy
 matplotlib
 seaborn
 scikit-learn
+xgboost
 jupyter
 joblib
 fastapi
 uvicorn
 pydantic
 requests
-imblearn
+imbalanced-learn

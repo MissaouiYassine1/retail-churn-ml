@@ -5,6 +5,7 @@ venv/
 # Données
 data/
 !data/raw/.gitkeep
+!data/raw/retail_customers_COMPLETE_CATEGORICAL.csv
 
 # Modèles (fichiers lourds)
 models/*.joblib
